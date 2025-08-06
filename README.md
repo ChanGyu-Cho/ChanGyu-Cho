@@ -1,4 +1,4 @@
-## Hi there 👋
+## 현재 Jabez repo에서 golf swing analysis AI model을 제작중
 
 <!--
 **ChanGyu-Cho/ChanGyu-Cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
