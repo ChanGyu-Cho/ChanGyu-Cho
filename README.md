@@ -1,4 +1,8 @@
-## 현재 Jabez repo에서 golf swing analysis AI model을 제작중
+### 🔭 현재 Jabez repo에서 golf swing analysis AI model을 제작중
+
+## 프로젝트 경험
+- mediapipe와 qualisys를 이용한 마커리스와 마커의 연관성 분석
+- ESN을 통한 시계열 NLP
 
 <!--
 **ChanGyu-Cho/ChanGyu-Cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
