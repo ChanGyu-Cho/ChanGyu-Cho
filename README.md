@@ -3,6 +3,7 @@
 ## 프로젝트 경험
 - mediapipe와 qualisys를 이용한 마커리스와 마커의 연관성 분석
 - ESN을 통한 시계열 NLP
+- 골프 스윙 분석 & 공유 풀스택 제작
 
 <!--
 **ChanGyu-Cho/ChanGyu-Cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
